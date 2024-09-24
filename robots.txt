@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wyuls.github.io/GNQ/sitemap.GNQ.gz
